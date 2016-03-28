@@ -1,0 +1,7 @@
+name 'rubies'
+maintainer 'Jason Blalock'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures rubies'
+long_description 'Installs/Configures rubies'
+version '0.1.0'
