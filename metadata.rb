@@ -5,3 +5,8 @@ license 'all_rights'
 description 'Installs/Configures rubies'
 long_description 'Installs/Configures rubies'
 version '0.1.0'
+
+depends 'apt' , '~> 3.0.0'
+depends 'build-essential', '~> 3.2.0'
+depends 'chruby_install', '~> 0.1.3'
+depends 'ruby_install', '~> 1.0.5'
